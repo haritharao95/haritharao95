@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haritha-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhrata-gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhratagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhratagupta" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhratagupta32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhratagupta32" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sxg220142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sxg220142" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhratagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhratagupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haritha-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haritharao" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/haritharao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haritharao" height="30" width="40" /></a>
+<a href="https://medium.com/@shubhratagupta32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haritharao" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sxg220142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haritharao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhratagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haritharao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
