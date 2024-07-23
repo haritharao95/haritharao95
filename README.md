@@ -1,4 +1,3 @@
-<img height=800 width =1000 src="wallpaper.jpg"/>
 <h1 align="center">Hi 👋, I'm Haritha Rao</h1>
 <h3 align="center">Tech-Savvy Business Data Enthusiast | SQL, Tableau, Python, Cloud | MS in Business Analytics | Transforming Data into Smart, Strategic Insights</h3>
 <p align="center">
