@@ -1,5 +1,3 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haritharao95.haritharao95" />
 <img height=800 width =1000 src="wallpaper.jpg"/>
 
 <!--
