@@ -1,6 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haritharao95.haritharao95" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Danalytics&psig=AOvVaw1lLpzabzwc_vm61AWhgSGS&ust=1721859977055000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi_obSavocDFQAAAAAdAAAAABAE"/>
+<img src="https://as2.ftcdn.net/v2/jpg/05/81/37/39/1000_F_581373925_TBFFS8NNemlHRbn5aBVcOHi0k5prIUpM.jpg"/>
 
 <!--
 **haritharao95/haritharao95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
